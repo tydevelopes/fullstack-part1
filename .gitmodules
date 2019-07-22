@@ -1,0 +1,6 @@
+[submodule "unicafe"]
+	path = unicafe
+	url = git@github.com:tydevelopes/fullstack-part1.git
+[submodule "anecdotes"]
+	path = anecdotes
+	url = git@github.com:tydevelopes/fullstack-part1.git
